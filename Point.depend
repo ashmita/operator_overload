@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1429785842 source:e:\ashmita_semesterii\data structures programs\point\main.cpp
+	<iostream>
+	"Point.h"
+
+1429785841 e:\ashmita_semesterii\data structures programs\point\point.h
+	<iostream>
+
+1429785938 source:e:\ashmita_semesterii\data structures programs\point\point.cpp
+	<iostream>
+	"Point.h"
+
